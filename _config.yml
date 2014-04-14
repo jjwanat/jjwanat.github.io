@@ -1,7 +1,7 @@
-name: Joe Wanat
+name: Simple Grey
 markdown: redcarpet
 pygments: true
-github: https://github.com
+github: https://github.com/exaem
 about: I am an aspiring developer. I dabble with Ruby, Python, JS, and more. Love adventure and traveling, gadgets, cooking, and life. Retired hockey player.
 urls:
     - text: about
