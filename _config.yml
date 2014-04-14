@@ -1,10 +1,12 @@
-name: Simply Grey 
+name: Joe Wanat
 markdown: redcarpet
 pygments: true
-github: www.github.com/exaem
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+github: www.github.com/jjwanat
+about: I am an aspiring developer. I dabble with Ruby, Python, JS, and more. Love adventure and traveling, gadgets, cooking, and life. Retired hockey player.
 urls:
     - text: github
-      url: https://github.com/exaem
+      url: https://github.com/jjwanat
+    - text: twitter
+      url: https://twitter.com/joewanat
     - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: mailto:wanat.joe@gmail.com
