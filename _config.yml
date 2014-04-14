@@ -4,6 +4,8 @@ pygments: true
 github: jjwanat.github.io
 about: I am an aspiring developer. I dabble with Ruby, Python, JS, and more. Love adventure and traveling, gadgets, cooking, and life. Retired hockey player.
 urls:
+    - text: about
+      url: about.html
     - text: github
       url: https://github.com/jjwanat
     - text: twitter
