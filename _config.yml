@@ -1,12 +1,12 @@
 # Site settings
-title: Joe Wanat
+title: Coding Bender
 email: joe@wanat.com
-description: "Hockey player, adventure seeker, adrenaline junky."
+description: "Joe Wanat: Hockey player, adventure seeker, adrenaline junky."
 baseurl: ""
 url: "http://jjwanat.github.io"
 twitter_username: JoeWanat
 github_username:  jjwanat
-facebook_username:  Joe Wanat
+facebook_username:  joe.wanat.3
 
 # Build settings
 markdown: kramdown
